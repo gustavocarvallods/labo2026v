@@ -182,3 +182,14 @@ project/target
 .worksheet
 
 .vscode/settings.json
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# R
+.Rhistory
+.RData
+.RDataTmp
+.Ruserdata
