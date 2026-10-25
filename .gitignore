@@ -193,3 +193,9 @@ env/
 .RData
 .RDataTmp
 .Ruserdata
+
+# Datasets
+datasets/
+
+# Experiment results
+exp_results/
